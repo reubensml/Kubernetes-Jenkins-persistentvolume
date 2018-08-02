@@ -8,7 +8,7 @@
 
 Create 4 yaml files
 
-reubendagreat@cloudshell:~/.kube/k8s-workshop/assembly_required/07_jenkinsvolume (kubernetes-poc-212109)$ ls
+$ ls
 01.storageclass.config.yml  
 02.pvc.config.yml  
 03.jenkins.withvolume.deployment.yml  
