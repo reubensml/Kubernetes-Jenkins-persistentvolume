@@ -18,6 +18,7 @@ Create 4 yaml files
 
 
 Create jenkins namespace
+
 kubectl create ns jenkins
 
 kubectl config set-context jenkins --cluster gke_kube
