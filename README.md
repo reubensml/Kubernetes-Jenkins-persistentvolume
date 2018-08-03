@@ -8,7 +8,6 @@
 
 Create 4 yaml files
 
-$ ls
 01.storageclass.config.yml  
 02.pvc.config.yml  
 03.jenkins.withvolume.deployment.yml  
