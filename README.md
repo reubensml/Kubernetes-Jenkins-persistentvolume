@@ -2,7 +2,9 @@
 
 
 "Prerequisites"
+
 1) Kubernetes cluster in Google cloud
+
 2) Login to google cloud shell
 
 
